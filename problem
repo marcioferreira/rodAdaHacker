@@ -1,0 +1,251 @@
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul",
+        [3] "Trânsito RS"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/acidente-envolvendo-tres-veiculos-causa-uma-morte-em-cidreira-rs.html",
+    primeira_publicacao       "May 04, 2013 15:03:04",
+    site                      "G1",
+    subtitulo                 "Vítima é um homem de 76 anos, segundo polícia rodoviária estadual. 
+Colisão ocorreu na manhã deste sábado (4) no km 37 da ERS-786.",
+    titulo                    "Acidente envolvendo três veículos causa uma morte em Cidreira, RS",
+    ultima_atualizacao        "May 04, 2013 15:03:04"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/biblioteca-movel-criada-em-onibus-abandonado-atrai-criancas-no-rs.html",
+    primeira_publicacao       "May 04, 2013 14:50:28",
+    site                      "G1",
+    subtitulo                 "Ônibus com livros faz sucesso entre o público infantil de Três Passos.
+Projeto foi criado para incentivar a leitura na região em 2011.",
+    thumbnail                 "http://s2.glbimg.com/ruEASJrq38y-M-ZuogsXbBhX2w0=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/04/livros.jpg",
+    titulo                    "Biblioteca móvel criada em ônibus abandonado atrai crianças no RS",
+    ultima_atualizacao        "May 04, 2013 14:50:28"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/homem-morre-em-acidente-na-br-470-no-norte-do-rs.html",
+    primeira_publicacao       "May 04, 2013 13:05:02",
+    site                      "G1",
+    subtitulo                 "Carro que vítima dirigia bateu em um caminhão.
+Ele foi encaminhado ao hospital, mas não resistiu.",
+    titulo                    "Homem morre em acidente na BR-470, no Norte do RS",
+    ultima_atualizacao        "May 04, 2013 14:05:27"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/suspeito-de-participar-de-ataques-bancos-na-serra-do-rs-e-preso.html",
+    primeira_publicacao       "May 04, 2013 11:50:56",
+    site                      "G1",
+    subtitulo                 "Duas agências de Fagundes Varela foram atacadas na sexta-feira (3).
+BM trocou tiros com suspeitos e prendeu homem neste sábado (4).",
+    thumbnail                 "http://s2.glbimg.com/tzRS_mwq5HjD3GFyqh53xWFR6lA=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/04/preso.jpg",
+    titulo                    "Suspeito de participar de ataques a bancos na Serra do RS é preso",
+    ultima_atualizacao        "May 04, 2013 15:20:36"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/suspeitos-invadem-posto-de-saude-e-fogem-com-equipamentos-no-rs.html",
+    primeira_publicacao       "May 04, 2013 11:36:26",
+    site                      "G1",
+    subtitulo                 "Suspeitos levaram três computadores, televisão e impressora.
+Populares viram a porta do local aberta e chamaram a polícia.",
+    titulo                    "Suspeitos invadem posto de saúde e fogem com equipamentos no RS",
+    ultima_atualizacao        "May 04, 2013 11:36:26"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/frente-fria-deixa-o-clima-mais-ameno-no-rs-partir-deste-sabado.html",
+    primeira_publicacao       "May 04, 2013 10:10:19",
+    site                      "G1",
+    subtitulo                 "Chove em parte do estado neste sábado (4), segundo o Inmet.
+No domingo (5) as máximas não deverão passar dos 22°C.",
+    titulo                    "Frente fria deixa o clima mais ameno no RS a partir deste sábado",
+    ultima_atualizacao        "May 04, 2013 15:00:10"
+}
+\ {
+    dia_primeira_publicacao   4,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul",
+        [3] "SC",
+        [4] "Santa Catarina"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/grupo-e-detido-por-policiais-ao-tentar-arrombar-caixa-eletronico-no-rs.html",
+    primeira_publicacao       "May 04, 2013 09:04:41",
+    site                      "G1",
+    subtitulo                 "Suspeitos foram levados para a delegacia na manhã deste sábado (4).	
+Cinco homens e duas mulheres, uma menor, são de SC, segundo a polícia.",
+    thumbnail                 "http://s2.glbimg.com/s2_HWMwhxZmuOPjhuq8l5Y27UlQ=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/04/apreensao.jpg",
+    titulo                    "Grupo é detido por policiais ao tentar arrombar caixa eletrônico no RS",
+    ultima_atualizacao        "May 04, 2013 15:01:46"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/policia-desarticula-quadrilha-de-clonagem-de-cartoes-de-credito-no-rs.html",
+    primeira_publicacao       "May 03, 2013 23:00:23",
+    site                      "G1",
+    subtitulo                 "Suspeita é de derrame de cartões clonados na Região Metropolitana.
+Polícia está ingressando com representação para seqüestro dos bens.",
+    titulo                    "Polícia desarticula quadrilha de clonagem de cartões de crédito no RS",
+    ultima_atualizacao        "May 03, 2013 23:00:37"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/canil-de-pelotas-rs-tera-cameras-para-identificar-quem-abandona-caes.html",
+    primeira_publicacao       "May 03, 2013 22:12:57",
+    site                      "G1",
+    subtitulo                 "Durante a madrugada, animais são abandonados na entrada do canil.
+Legislação diz que cães que precisam de ajuda devem ser recolhidos da rua",
+    thumbnail                 "http://s2.glbimg.com/VzOTbtOwAosBsVJ1Ag7kmBr3eIw=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/03/canil_paulaadamoli_20.jpg",
+    titulo                    "Canil de Pelotas, RS, terá câmeras para identificar quem abandona cães",
+    ultima_atualizacao        "May 03, 2013 22:13:11"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/duas-pessoas-morrem-apos-receberem-descarga-eletricas-no-rs.html",
+    primeira_publicacao       "May 03, 2013 21:39:00",
+    site                      "G1",
+    subtitulo                 "Em Santa Rosa, no Noroeste, vítima levou descarga enquanto colhia frutas.
+Em Bom Retiro do Sul, homem morrreu ao passar por baixo de fios.",
+    titulo                    "Duas pessoas morrem após receberem descargas elétricas no RS",
+    ultima_atualizacao        "May 03, 2013 21:47:58"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/idosa-tem-alimentacao-injetada-na-veia-em-hospital-de-osorio-rs.html",
+    primeira_publicacao       "May 03, 2013 20:51:28",
+    site                      "G1",
+    subtitulo                 "Mulher foi salva pelo filho, que conseguiu interromper fluxo da alimentação.
+Em novembro de 2012, agricultor morreu pelo mesmo motivo na instituição.",
+    titulo                    "Idosa tem alimentação injetada na veia em hospital de Osório, RS",
+    ultima_atualizacao        "May 03, 2013 23:02:20"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/mae-consegue-na-justica-uruguaia-direito-de-retornar-com-o-filho-ao-rs.html",
+    primeira_publicacao       "May 03, 2013 19:41:14",
+    site                      "G1",
+    subtitulo                 "Pai italiano sequestrou criança de 4 anos em Guaporé no dia 13 de abril.
+Audiência foi realizada na tarde desta sexta-feira em Montevidéu.",
+    thumbnail                 "http://s2.glbimg.com/jC42nSnNu7y3NQeaAzLNT4KOGoo=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/21/sequestrado_uruguai_2.jpg",
+    titulo                    "Mãe consegue na Justiça uruguaia direito de retornar com o filho ao RS",
+    ultima_atualizacao        "May 03, 2013 19:46:57"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/investigados-por-fraude-ambientel-no-rs-deixam-o-presidio-central.html",
+    primeira_publicacao       "May 03, 2013 19:33:19",
+    site                      "G1",
+    subtitulo                 "Justiça negou prorrogação de prisão e mandou soltar 10 suspeitos. 
+Dos 18 presos na Operação Concutare, 10 permaneciam no Central.
+",
+    thumbnail                 "http://s2.glbimg.com/LB0VvdxKq3dNwq9Vp3tt9K8Bs4k=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/03/berfran.jpg",
+    titulo                    "Investigados por fraude ambiental no RS deixam o Presídio Central",
+    ultima_atualizacao        "May 03, 2013 19:57:07"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/preso-quarto-suspeito-de-linchar-ate-morte-homem-em-porto-alegre.html",
+    primeira_publicacao       "May 03, 2013 19:00:17",
+    site                      "G1",
+    subtitulo                 "Suposto morador de rua foi agredido na madrugada do dia 25 de fevereiro.
+Cinco pessoas participaram do espancamento ao lado do Mercado Público.",
+    thumbnail                 "http://s2.glbimg.com/tZCl6VvxKYylN1xkJoQjWd7PZ58=/90x68/s.glbimg.com/jo/g1/f/original/2013/05/03/preso_centro_poa.jpg",
+    titulo                    "Preso quarto suspeito de linchar até a morte homem em Porto Alegre",
+    ultima_atualizacao        "May 03, 2013 19:03:34"
+}
+\ {
+    dia_primeira_publicacao   3,
+    editoria_principal        "Rio Grande do Sul",
+    editorias                 [
+        [0] "Brasil",
+        [1] "RS",
+        [2] "Rio Grande do Sul"
+    ],
+    permalink                 "http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/05/acidente-no-campus-da-univates-no-rs-deixa-operario-em-estado-grave.html",
+    primeira_publicacao       "May 03, 2013 18:33:56",
+    site                      "G1",
+    subtitulo                 "Trabalhador de 19 anos foi atingido por bloco de concreto na cabeça.
+Ele foi socorrido e está internado em estado grave, segundo hospital.",
+    titulo                    "Acidente no campus da Univates, no RS, deixa operário em estado grave",
+    ultima_atualizacao        "May 03, 2013 18:34:55"
+}
