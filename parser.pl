@@ -42,7 +42,7 @@ for my $file (@files) {
             $titulo =~ s/,|'//g;
             $titulo =~ s/\d+[h%ª]?//g;
             $titulo =~ s/mortes/morte/gi;
-            $titulo =~ s/sa[uú]de/saude/gi;
+            $titulo =~ s/saúde/saude/gi;
 
             my @words_clean = grep { !$stopwords->{$_} } split/\s+/, $titulo;
             
